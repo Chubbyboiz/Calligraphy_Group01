@@ -21,7 +21,7 @@ SourceCode : https://github.com/Chubbyboiz/Calligraphy_Group01/tree/main/Documen
 
 =======================================
 
-Published website : 
+Published website : https://chubbyboiz.github.io/Calligraphy_Group01/
 
 =======================================
 
